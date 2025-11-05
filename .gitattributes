@@ -1,0 +1,11 @@
+# Auto normalize text files to LF in the repository
+* text=auto
+
+# Treat certain file types as binary (do not change)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.jar binary
+*.class binary
+*.pdf binary
